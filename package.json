@@ -1,0 +1,22 @@
+{
+  "name": "reactresume",
+  "version": "0.1.0",
+  "description": "Developer Resume - Devin Campbell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Campbellds1991/ReactResume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Devin Campbell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Campbellds1991/ReactResume/issues"
+  },
+  "homepage": "https://github.com/Campbellds1991/ReactResume#readme"
+}
